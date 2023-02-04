@@ -1,0 +1,14 @@
+h1 {
+  /* font-family: 'McLaren', cursive; */
+  margin-top: 10px;
+  color: black;
+  text-align: center;
+  background-color: rgb(122, 63, 194);
+  border-radius: 1rem;
+  height: 60px;
+}
+
+.addBtn:hover{
+  background-color: blueviolet;
+
+}
